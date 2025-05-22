@@ -553,3 +553,324 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.m-auto {
+  margin: auto;
+}
+
+.mt-\[20px\] {
+  margin-top: 20px;
+}
+
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+
+.mt-\[40px\] {
+  margin-top: 40px;
+}
+
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mt-\[100px\] {
+  margin-top: 100px;
+}
+
+.mt-\[200px\] {
+  margin-top: 200px;
+}
+
+.mt-\[70px\] {
+  margin-top: 70px;
+}
+
+.mt-\[50px\] {
+  margin-top: 50px;
+}
+
+.mt-\[80px\] {
+  margin-top: 80px;
+}
+
+.mt-\[150px\] {
+  margin-top: 150px;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-\[\] {
+  height: ;
+}
+
+.h-\[60px\] {
+  height: 60px;
+}
+
+.h-\[64px\] {
+  height: 64px;
+}
+
+.h-\[316px\] {
+  height: 316px;
+}
+
+.h-\[654px\] {
+  height: 654px;
+}
+
+.h-\[95px\] {
+  height: 95px;
+}
+
+.h-\[205px\] {
+  height: 205px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[185px\] {
+  width: 185px;
+}
+
+.w-\[200px\] {
+  width: 200px;
+}
+
+.w-\[405px\] {
+  width: 405px;
+}
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
+.w-\[517px\] {
+  width: 517px;
+}
+
+.w-\[717px\] {
+  width: 717px;
+}
+
+.max-w-\[1200px\] {
+  max-width: 1200px;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
+}
+
+.gap-\[20\] {
+  gap: 20;
+}
+
+.gap-\[30px\] {
+  gap: 30px;
+}
+
+.gap-\[20x\] {
+  gap: 20x;
+}
+
+.rounded-\[\] {
+  border-radius: ;
+}
+
+.rounded-\[41px\] {
+  border-radius: 41px;
+}
+
+.border-\[2px\] {
+  border-width: 2px;
+}
+
+.border-\[1px\] {
+  border-width: 1px;
+}
+
+.border-2 {
+  border-width: 2px;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-s {
+  border-inline-start-width: 1px;
+}
+
+.border-solid {
+  border-style: solid;
+}
+
+.border-white {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity, 1));
+}
+
+.border-blue-600 {
+  --tw-border-opacity: 1;
+  border-color: rgb(37 99 235 / var(--tw-border-opacity, 1));
+}
+
+.border-blue-500 {
+  --tw-border-opacity: 1;
+  border-color: rgb(59 130 246 / var(--tw-border-opacity, 1));
+}
+
+.border-blue-300 {
+  --tw-border-opacity: 1;
+  border-color: rgb(147 197 253 / var(--tw-border-opacity, 1));
+}
+
+.border-blue-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(191 219 254 / var(--tw-border-opacity, 1));
+}
+
+.border-blue-100 {
+  --tw-border-opacity: 1;
+  border-color: rgb(219 234 254 / var(--tw-border-opacity, 1));
+}
+
+.border-s-orange-50 {
+  --tw-border-opacity: 1;
+  border-inline-start-color: rgb(255 247 237 / var(--tw-border-opacity, 1));
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\#fcd980\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(252 217 128 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#f\] {
+  background-color: #f;
+}
+
+.bg-\[\#f4\] {
+  background-color: #f4;
+}
+
+.bg-\[\#f4f6fc\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 246 252 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#1\] {
+  background-color: #1;
+}
+
+.bg-\[\#1c\] {
+  background-color: #1c;
+}
+
+.bg-\[\#1c1e53\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(28 30 83 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#\] {
+  background-color: #;
+}
+
+.p-\[20px\] {
+  padding: 20px;
+}
+
+.pt-\[20px\] {
+  padding-top: 20px;
+}
+
+.pt-\[10px\] {
+  padding-top: 10px;
+}
+
+.pt-\[100px\] {
+  padding-top: 100px;
+}
+
+.pt-\[\] {
+  padding-top: ;
+}
+
+.pt-\[130px\] {
+  padding-top: 130px;
+}
+
+.pt-\[50px\] {
+  padding-top: 50px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-start {
+  text-align: start;
+}
+
+.text-\[48px\] {
+  font-size: 48px;
+}
+
+.text-\[38px\] {
+  font-size: 38px;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-\[\#bbb\] {
+  --tw-text-opacity: 1;
+  color: rgb(187 187 187 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#bbbbcb\] {
+  --tw-text-opacity: 1;
+  color: rgb(187 187 203 / var(--tw-text-opacity, 1));
+}
